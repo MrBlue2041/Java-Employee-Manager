@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Funcionários
 
 Este é um pequeno programa em Java que permite registrar funcionários, atribuindo-lhes um ID, nome e salário. Ele também oferece a funcionalidade de aumentar o salário de um funcionário específico com base no seu ID.
+
 ** Meramente criado para estudos e aprofundamentos sobre Lists.
 
 ## Como Compilar e Executar
